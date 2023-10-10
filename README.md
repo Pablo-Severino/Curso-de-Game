@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.svg" width="180px" heidht="180px" />
+  <img src="icon.png" width="180px" heidht="180px" />
 </div>
 <h2 align="center">Curso-de-Game</h2>
 <div align="center">
